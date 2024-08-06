@@ -51,16 +51,13 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/HedyehRahmani/Customers-Clustering-based-on-Spending-score.git
    ```
 
 2. Run the Python scripts to load the data, train the model, and evaluate the results.
 
    ```bash
-   python data_preparation.py
-   python train_model.py
-   python evaluate_model.py
+   python app.py
    ```
 
 ## Modeling Process
